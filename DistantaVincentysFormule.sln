@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistantaVincentysFormule", "DistantaVincentysFormule\DistantaVincentysFormule.csproj", "{596C2AC6-FA56-427B-B4D6-4D2496CCC88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596C2AC6-FA56-427B-B4D6-4D2496CCC88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596C2AC6-FA56-427B-B4D6-4D2496CCC88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596C2AC6-FA56-427B-B4D6-4D2496CCC88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596C2AC6-FA56-427B-B4D6-4D2496CCC88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900B9E58-3435-4FCD-9899-66CA200A93C1}
+	EndGlobalSection
+EndGlobal
